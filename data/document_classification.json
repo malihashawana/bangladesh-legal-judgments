@@ -1,0 +1,359 @@
+[
+  {
+    "id": "J00001",
+    "case_type": "Company Matter",
+    "word_count": 3744,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00002",
+    "case_type": "Civil Revision",
+    "word_count": 1817,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00003",
+    "case_type": "Death Reference",
+    "word_count": 13852,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00004",
+    "case_type": "Death Reference",
+    "word_count": 24187,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00005",
+    "case_type": "Civil Revision",
+    "word_count": 3452,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00006",
+    "case_type": "Civil Revision",
+    "word_count": 4841,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00007",
+    "case_type": "Civil Revision",
+    "word_count": 1149,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00008",
+    "case_type": "Civil Revision",
+    "word_count": 2539,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00009",
+    "case_type": "Writ Petition",
+    "word_count": 2532,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00010",
+    "case_type": "Writ Petition",
+    "word_count": 3541,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00011",
+    "case_type": "Civil Revision",
+    "word_count": 1421,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00012",
+    "case_type": "Writ Petition",
+    "word_count": 3691,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00013",
+    "case_type": "Civil Revision",
+    "word_count": 3618,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00014",
+    "case_type": "Civil Revision",
+    "word_count": 4437,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00015",
+    "case_type": "First Appeal",
+    "word_count": 1583,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00016",
+    "case_type": "Company Matter",
+    "word_count": 939,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00017",
+    "case_type": "Civil Revision",
+    "word_count": 9086,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00018",
+    "case_type": "Writ Petition",
+    "word_count": 4809,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00019",
+    "case_type": "Writ Petition",
+    "word_count": 4361,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00020",
+    "case_type": "Writ Petition",
+    "word_count": 1933,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00021",
+    "case_type": "Criminal Revision (TN)",
+    "word_count": 1360,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00022",
+    "case_type": "Criminal Revision (TN)",
+    "word_count": 1409,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00023",
+    "case_type": "Criminal Misc",
+    "word_count": 2347,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00024",
+    "case_type": "Admiralty Suit",
+    "word_count": 4495,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00025",
+    "case_type": "Criminal Misc",
+    "word_count": 1614,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00026",
+    "case_type": "Criminal Misc",
+    "word_count": 2242,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00027",
+    "case_type": "Company Matter",
+    "word_count": 3188,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00028",
+    "case_type": "Writ Petition",
+    "word_count": 2532,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00029",
+    "case_type": "Civil Revision",
+    "word_count": 451,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00030",
+    "case_type": "Company Matter (TN)",
+    "word_count": 6435,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00031",
+    "case_type": "Writ Petition",
+    "word_count": 3478,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00032",
+    "case_type": "Civil Revision",
+    "word_count": 1702,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00033",
+    "case_type": "First Appeal",
+    "word_count": 5471,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00034",
+    "case_type": "Criminal Appeal(H) (TN)",
+    "word_count": 3166,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00035",
+    "case_type": "Criminal Appeal(H) (TN)",
+    "word_count": 4011,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00036",
+    "case_type": "Civil Revision",
+    "word_count": 694,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00037",
+    "case_type": "First Appeal",
+    "word_count": 2044,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00038",
+    "case_type": "First Misc Appeal",
+    "word_count": 3378,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00039",
+    "case_type": "Civil Revision",
+    "word_count": 6121,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00040",
+    "case_type": "Criminal Revision",
+    "word_count": 1050,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00041",
+    "case_type": "Writ Petition",
+    "word_count": 1429,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00042",
+    "case_type": "Company Matter",
+    "word_count": 4313,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00043",
+    "case_type": "Arbitration Application",
+    "word_count": 7049,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00044",
+    "case_type": "Company Matter",
+    "word_count": 4625,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00045",
+    "case_type": "Criminal Revision",
+    "word_count": 845,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00046",
+    "case_type": "Writ Petition",
+    "word_count": 1677,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00047",
+    "case_type": "Writ Petition",
+    "word_count": 3541,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00048",
+    "case_type": "Writ Petition",
+    "word_count": 2207,
+    "doc_type": "full_judgment",
+    "facts_found": false
+  },
+  {
+    "id": "J00049",
+    "case_type": "First Appeal",
+    "word_count": 2031,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00050",
+    "case_type": "Writ Petition",
+    "word_count": 2176,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  },
+  {
+    "id": "J00051",
+    "case_type": "Unknown",
+    "word_count": 3525,
+    "doc_type": "full_judgment",
+    "facts_found": true
+  }
+]

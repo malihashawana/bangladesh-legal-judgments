@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Dataset
+data/pdfs/
+data/texts_en/
+data/texts_bn/
+
+# Generated files
+data/structured_judgments.json
+
+# Databases
+*.sqlite
+*.db
+*.gz
+
+# PDFs
+*.pdf

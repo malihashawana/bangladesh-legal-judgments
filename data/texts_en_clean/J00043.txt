@@ -1,0 +1,818 @@
+IN THE SUPREME COURT OF BANGLADESH
+(STATUTORY ORIGINAL JURISDICTION)
+                 Present:
+Mr. Justice Md. Toufiq Inam
+Arbitration Application No.14 of 2023.
+
+An application under Sections 42 and 43 of the
+Arbitration Act, 2001.
+IN THE MATTER OF:
+Manikganj Power Generations Limited.
+.......Petitioner.
+-Versus-
+Yew Choon Private Limited.
+........ Respondent.
+Mr. Junayed Ahmed Chowdhury, Senior Advocate, with
+Mr. Asif Bin Anwar, Advocate and
+Mr. Jobayer Mohammad Aourangzeb, Advocates
+.........For the petitioner.
+Mr. Khaled Hamid Chowdhury, Senior Advocate with
+Mr. ABM Hamidul Mishbah, Advocate and
+Mr. Bishow Jith Deb, Advocate
+.... For the Respondent.
+
+Judgment Delivered On 10.08.2026.
+Md. Toufiq Inam, J.
+This is an application under sections 42 and 43 of the Arbitration Act,
+2001 seeking to set aside the arbitral award dated 20.06.2023 rendered
+by the Arbitral Tribunal in favour of the respondent.
+
+Relevant Facts
+The petitioner and the respondent entered into a contract whereby the
+respondent undertook to provide heavy lifting and transportation
+services in connection with, among others, the Bhairob Project.
+
+Disputes subsequently arose between the parties regarding, inter alia,
+the respondent's claim for compensation on account of the alleged
+delay in the commencement of the Bhairob Project and other ancillary
+claims arising out of the performance of the contract.
+
+Pursuant to the arbitration agreement contained in the contract, the
+disputes were referred to arbitration. Both parties filed their respective
+pleadings, adduced oral and documentary evidence, and participated
+fully in the arbitral proceedings.By the Final Award dated 20.06.2023,
+the Arbitral Tribunal partly allowed the respondent's claims. So far as
+the present application is concerned, the Tribunal awarded the
+respondent USD 511,150, comprising compensation for the alleged
+103-day delay in the commencement of the Bhairob Project together
+with USD 42,500 towards the use of three alternator units. The
+Tribunal also directed the petitioner to pay BDT 35,50,000 as the
+respondent's share of the costs of the arbitral proceedings.
+
+Being aggrieved by the aforesaid findings and directions, the petitioner
+has filed the present application under sections 42 and 43 of the
+Arbitration Act, 2001, seeking to set aside the award to the extent it
+grants the aforesaid compensation and costs.
+
+The petitioner's principal grievance is that the Tribunal erroneously
+shifted the burden of proof from the respondent, as claimant, to the
+petitioner, accepted uncorroborated logbook entries maintained by the
+respondent while disregarding material documentary evidence
+produced by the petitioner, and thereby arrived at findings which are
+perverse and prima facie opposed to the law for the time being in force
+in Bangladesh within the meaning of section 43(1)(b)(ii) of the
+
+Arbitration Act, 2001. The petitioner further challenges the award
+relating to costs as arbitrary and unsupported by reasons.
+
+The respondent, on the other hand, contends that the Tribunal
+considered the entire evidentiary record, appreciated the evidence in
+accordance with law, and arrived at findings that were reasonably open
+on the materials before it. It is further contended that the present
+application merely seeks a reassessment of facts and evidence, which
+falls outside the limited supervisory jurisdiction of this Court under
+section 43 of the Arbitration Act, 2001.
+
+Submissions of the Petitioner
+Mr. Junayed Ahmed Chowdhury, learned Senior Advocate, appearing
+with Mr. Asif Bin Anwar for the petitioner, submits that the impugned
+award is vitiated by patent illegality and is liable to be set aside under
+section 43 of the Arbitration Act, 2001. He contends that although an
+arbitral tribunal is not bound by the strict rules of the Evidence Act,
+1872, it must nevertheless adhere to the fundamental principles
+governing burden of proof and fair adjudication. Referring to sections
+23, 24, 29, 35 and 38 of the Arbitration Act read with section 101 of the
+Evidence Act, he argues that the respondent, as claimant, bore the
+initial burden of proving the factual foundation of its claim by credible
+evidence, which it failed to discharge.
+
+According to him, the respondent's claim for additional delay charges
+rested entirely on the allegation that the Bhairob Project site and jetty
+were not ready for commencement of work for 103 days. In the absence
+of proof of that foundational fact, no evidential burden could shift to
+the petitioner. Instead of examining whether the respondent had
+discharged its initial burden, the Tribunal accepted the respondent's
+
+case solely on the basis of entries in its own operational logbook,
+prepared by its personnel and unsupported by any independent
+corroboration, while disregarding the petitioner's documentary
+evidence. He submits that the Tribunal thereby reversed the burden of
+proof by requiring the petitioner to establish that the project site was
+ready for commencement of work, contrary to section 101 of the
+Evidence Act.
+
+Elaborating the submission, he argues that the Tribunal's reasoning,
+that there was no plausible reason for the respondent to record false
+delays in its logbook, was speculative and incapable of substituting
+legal proof. He further submits that the Tribunal either ignored or
+rejected without adequate reasons the petitioner's materials, including
+progress reports, official correspondence, email exchanges with MAN
+Energy Solutions SE, Germany, reports submitted to the Independent
+Power Plant Cell of the Bangladesh Power Development Board, and
+photographic records, all indicating that the project had substantially
+been completed and was ready for operation. Such selective
+appreciation of the evidence, he contends, rendered the Tribunal's
+findings perverse.
+
+In support of these submissions, he relies on section 101 of the
+Evidence Act and submits that section 24 of the Arbitration Act
+excludes only the strict procedural application of the Code of Civil
+Procedure and the Evidence Act, not the underlying principles of
+burden of proof and fair adjudication. He further places reliance on M/S
+Ambika Construction Co. v. Union of India, 2012 (2) Arb LR 249
+(Bom), and Oil and Natural Gas Corporation Ltd. v. Oil Country
+Tubular Ltd., 2011 (4) Arb LR 139 (Bom), for the proposition that,
+notwithstanding the procedural flexibility of arbitral proceedings, the
+
+claimant must establish its claim by sufficient pleadings and evidence
+before any award of damages can be sustained. He also relies on Gas
+Transmission Company Limited v. Drilltec-Maxwell Joint Venture, 22
+ALR 31, particularly paragraph 57, to contend that a finding reached by
+ignoring material evidence, misreading the record or reversing the
+settled burden of proof amounts to a perverse finding and is therefore
+prima facie opposed to the law for the time being in force in
+Bangladesh within the meaning of section 43(1)(b)(ii) of the
+Arbitration Act.
+
+On the question of costs, learned Senior Advocate submits that the
+Tribunal exercised its discretion arbitrarily by directing the petitioner to
+bear the entire costs of the arbitration despite the respondent having
+substantially failed in its claim. He argues that no reasons were
+assigned for departing from the settled principle that costs ordinarily
+follow the event and, accordingly, the direction as to costs is equally
+unsustainable.He accordingly submits that the impugned award, having
+been founded upon an erroneous application of the burden of proof,
+reliance on uncorroborated self-serving documents, disregard of
+material evidence, and a perverse appreciation of the record, is liable to
+be set aside under section 43(1)(b)(ii) of the Arbitration Act, 2001.
+
+Submissions of the Respondent
+Conversely, Mr. Khaled Hamid Chowdhry, learned Senior Advocate
+appearing on behalf of the respondent, submits that the present
+application is, in substance, an attempt to reopen the merits of the
+arbitral award under the guise of sections 42 and 43 of the Arbitration
+Act, 2001. According to him, the petitioner has failed to bring its case
+within any of the limited statutory grounds upon which an arbitral
+award may be set aside.
+
+At the outset, he submits that the challenge is confined to two parts of
+the Final Award dated 20.06.2023, namely, (i) the award of USD
+511,150, comprising compensation for the 103-day delay in the
+commencement of the Bhairob Project together with USD 42,500
+towards the use of three alternator units, and (ii) the award of BDT
+35,50,000 towards the respondent's share of the arbitral costs. The
+petitioner's objections, he submits, are essentially threefold: first, that
+the Tribunal reversed the burden of proof under section 101 of the
+Evidence Act, 1872; secondly, that its finding regarding the readiness
+of the Bhairob Project is perverse; and thirdly, that the order as to costs
+is arbitrary. None of these grounds, he contends, falls within the ambit
+of section 43 of the Arbitration Act.
+
+Developing his submissions, he contends that the Arbitration Act, 2001
+embodies the legislative policy of minimal judicial intervention and
+accords finality to arbitral awards. Referring to sections 24, 39 and 43
+of the Act, together with Articles 5 and 34 of the UNCITRAL Model
+Law, he submits that this Court exercises only a supervisory
+jurisdiction and not an appellate one. Accordingly, the Court cannot
+reassess the evidence, substitute its own interpretation of the
+documents, or interfere merely because another view of the facts is
+possible. The expression "prima facie opposed to the law for the time
+being in force in Bangladesh" occurring in section 43(1)(b)(ii), he
+argues, cannot be construed as conferring a general right of appeal
+against arbitral awards but must be interpreted consistently with the
+legislative policy of finality.
+
+In support of these propositions, he places reliance upon Helm
+Dungemittel GmbH v. Bangladesh Chemical Industries Corporation,
+
+16 BLC 783; Rising Sun Traders Ltd. v. Chittagong Port Authority, 43
+DLR 1; Bangladesh Telegraph and Telephone Board v. Lithi
+Enterprise Ltd., 46 DLR 122; Titas Prokaushali Ltd. v. Roads and
+Highways Department, 46 DLR 665; Bangladesh Power Development
+Board v. Arab Contractors (BD) Ltd., VI ADC (2009) 952; Bangladesh
+Railway v. Pamkaya (M) SDN BHD, 2 CLR (HCD) 114, affirmed in 2
+CLR (AD) 139; and Bangladesh Water Development Board v. United
+Builders, 9 ALR (AD) 97. These authorities, he submits, consistently
+affirm that an arbitral award cannot be set aside merely because another
+interpretation of the evidence or the contract is possible and that
+judicial interference is warranted only where the award suffers from
+jurisdictional infirmity, rests upon inadmissible evidence or legal
+principles unknown to law, or reflects total non-consideration of
+material evidence. He further submits that the observations in Gas
+Transmission Company Limited v. Drilltec-Maxwell Joint Venture, 22
+ALR 31, must be understood in the factual context of that case and do
+not authorise the Court to treat every alleged error in appreciation of
+evidence as a ground for annulment.
+
+Referring to Redfern and Hunter on International Arbitration and Gary
+Born's International Commercial Arbitration, he submits that courts
+exercising supervisory jurisdiction over arbitral awards do not sit in
+appeal over findings of fact. Ordinary errors in appreciation of
+evidence, contractual interpretation or factual inference, even if
+assumed, do not constitute grounds for setting aside an award unless
+they disclose a jurisdictional defect or violate fundamental public
+policy.
+
+Applying these principles to the present case, he submits that the
+Tribunal carefully examined the entire documentary record, including
+
+the email correspondence dated 06.01.2019 and 08.01.2019, the
+progress reports, the email dated 13.01.2019 addressed to MAN Energy
+Solutions SE, the report submitted to the Independent Power Producer
+Cell, the subsequent correspondence between the parties and the
+chronology of events. Upon such evaluation, the Tribunal concluded
+that none of those documents established that the Bhairob Project site
+and jetty were ready for commencement of heavy lifting operations
+during the disputed period. The Tribunal further relied upon the
+respondent's email dated 21.04.2019, the absence of any immediate
+complaint that the respondent had failed to mobilise despite site
+readiness, and the surrounding commercial circumstances, including
+the respondent's completion of the Manikganj Project within 87 days
+and its completion of the Bhairob Project within nine days after the
+requisite facilities became available. These findings, he submits, were
+drawn from the cumulative effect of the evidence and not merely from
+the petitioner's inability to disprove the respondent's case.
+
+Mr. Khaled Hamid Chowdhury further submits that the award must be
+read as a whole and not by isolating individual expressions. The
+Tribunal's observations that the petitioner had "failed to disprove"
+certain assertions or had "not conclusively proved" the readiness of the
+project cannot be divorced from the extensive discussion preceding
+those observations. Read fairly, the award demonstrates that the
+Tribunal first evaluated the evidence adduced by both parties and
+thereafter reached its conclusions on the basis of the entire evidentiary
+record. Even assuming another tribunal might have drawn different
+inferences, the sufficiency, reliability and weight of the evidence
+remain matters exclusively within the province of the arbitral tribunal
+and cannot be reassessed under section 43.
+
+With regard to costs, he submits that section 38(7) of the Arbitration
+Act expressly vests the Tribunal with discretion to determine both the
+quantum and incidence of costs. Such discretion, he contends, is open
+to interference only where it has been exercised arbitrarily,
+capriciously, in excess of jurisdiction or upon an erroneous principle of
+law. Since the respondent substantially succeeded in the arbitration, the
+Tribunal rightly regarded it as the successful party for the purpose of
+costs. The petitioner's challenge to the award on costs, like its challenge
+on the merits, therefore seeks nothing more than a rehearing on facts
+and evidence, which is wholly inconsistent with the legislative policy
+of finality embodied in the Arbitration Act, 2001. Accordingly, the
+application merits dismissal.
+
+Analysis and Findings
+Having heard the learned Advocates appearing for the respective
+parties at length, and having carefully examined the application, the
+affidavits filed by the parties, the impugned arbitral award, the
+pleadings and documentary evidence placed before the Arbitral
+Tribunal, the written submissions, the authorities cited by the parties,
+and the relevant provisions of the Arbitration Act, 2001, this Court is
+now called upon to determinewhether the petitioner has succeeded in
+bringing the impugned award within any of the limited statutory
+grounds for judicial interference under section 43 of the Arbitration
+Act, 2001. The principal questions that arise for determination are
+whether the Tribunal committed any error of law by misapplying the
+burden of proof, whether its findings suffer from such perversity or
+non-consideration of material evidence as to render the award prima
+facie opposed to the law for the time being in force in Bangladesh
+within the meaning of section 43(1)(b)(ii), and whether the Tribunal's
+
+direction relating to costs discloses any jurisdictional or legal infirmity
+warranting interference by this Court.
+
+Scope Of Judicial Review Under Section 43
+Before examining the rival contentions, it is necessary to bear in mind
+the nature of this Court's jurisdiction under sections 42 and 43 of the
+Arbitration Act, 2001. The Act was enacted to minimise judicial
+intervention in arbitral proceedings and to uphold the principle of
+finality of arbitral awards. Unlike an appellate Court, the High Court
+Division does not sit in appeal over an arbitral award. Its jurisdiction is
+supervisory and not appellate.Section 43 exhaustively enumerates the
+circumstances in which an arbitral award may be set aside. Unless the
+applicant is able to bring the case within one or more of those statutory
+grounds, the Court cannot interfere merely because another view on the
+facts or the contract is possible.
+
+This principle has repeatedly been recognised both in Bangladesh and
+in other Model Law jurisdictions. In Helm Dungemittel GmbH v.
+Bangladesh Chemical Industries Corporation (16 BLC 783), this Court
+held that proceedings under section 43 do not permit a reassessment of
+evidence or reconsideration of the merits of the dispute. Likewise, in
+Bangladesh Railway v. Pamkaya (M) SDN BHD (2 CLR (HCD) 114),
+affirmed by the Appellate Division (2 CLR (AD) 139), it was held that
+the Court cannot substitute its own appreciation of the evidence merely
+because another conclusion appears preferable. Similar principles were
+reiterated by the Appellate Division in Bangladesh Water Development
+Board v. United Builders (9 ALR (AD) 97), emphasising that judicial
+intervention is confined to cases where the award suffers from a
+jurisdictional defect or is vitiated by one of the statutory grounds
+recognised by the Arbitration Act.
+
+The expression "prima facie opposed to the law for the time being in
+force in Bangladesh" occurring in section 43(1)(b)(ii) cannot be
+construed as conferring a general appellate jurisdiction over every
+alleged error committed by the arbitral tribunal. If every error in
+appreciation of evidence or contractual interpretation were treated as a
+violation of law, the distinction between an appeal and an application
+for setting aside would disappear altogether, thereby frustrating the
+legislative policy of finality embodied in the Arbitration Act.
+
+Whether The Tribunal Reversed The Burden Of Proof
+The petitioner's principal contention is that the Arbitral Tribunal
+fundamentally misdirected itself in law by reversing the burden of
+proof. According to the petitioner, the respondent, being the claimant in
+the arbitral proceedings, was required to establish by cogent evidence
+that the delay in the commencement of the Bhairob Project was
+attributable to the non-readiness of the project site and jetty. Instead of
+requiring the respondent to discharge that burden, the Tribunal
+allegedly proceeded on the basis that the petitioner had failed to prove
+that the site was ready, thereby impermissibly transferring the burden
+of proof contrary to section 101 of the Evidence Act, 1872.
+
+There can be no quarrel with the legal proposition that the initial
+burden of proving a fact rests upon the party who asserts it. Section 101
+of the Evidence Act embodies this cardinal principle by providing that
+whoever desires a Court to give judgment as to any legal right or
+liability dependent upon the existence of facts asserted by him must
+prove those facts. Although, by virtue of section 24 of the Arbitration
+Act, 2001, an arbitral tribunal is not bound by the technical rules of the
+Code of Civil Procedure or the Evidence Act, it is nevertheless required
+
+to adhere to the fundamental principles of fair adjudication, including
+the proper allocation of the burden of proof. The authorities relied upon
+by the petitioner, including M/S Ambika Construction Co. v. Union of
+India and Oil and Natural Gas Corporation Ltd. v. Oil Country
+Tubular Ltd., correctly reiterate that proposition. This Court
+respectfully agrees that procedural flexibility in arbitration cannot
+justify a departure from the elementary principle that the claimant must
+first establish the factual foundation of its claim.
+
+The crucial question, however, is not whether section 101 applies in
+principle, but whether, on a fair reading of the award as a whole, the
+Tribunal in fact reversed the legal burden of proof.
+
+Having carefully examined the impugned award, this Court is unable to
+accept the petitioner's contention. The award, read in its entirety, does
+not support the proposition that the Tribunal imposed the initial burden
+upon the petitioner. On the contrary, the Tribunal first examined the
+evidence adduced by the respondent in support of its claim. The
+Tribunal considered the contractual allocation of responsibilities, the
+operational logbooks, correspondence exchanged between the parties,
+the chronology relating to the readiness of the Bhairob Project, the oral
+testimony and the surrounding commercial circumstances before
+arriving at its factual conclusions.
+
+The Tribunal thereafter proceeded to examine the evidence relied upon
+by the petitioner in rebuttal. In particular, the Tribunal separately
+analysed the email correspondence dated 06.01.2019 and 08.01.2019
+upon which considerable reliance had been placed by the petitioner.
+The Tribunal explained why the statement that "by this time the jetty
+will be fully ready" represented an expectation regarding future
+
+readiness rather than confirmation that the jetty had actually become
+ready on the relevant date. Likewise, the Tribunal examined the
+progress reports and the email dated 13.01.2019 addressed to MAN
+Energy Solutions SE and recorded its reasons for holding that those
+communications, though indicative of the overall progress of the
+project, did not clearly establish the actual readiness of the site and jetty
+for commencement of heavy lifting operations. Similar consideration
+was given to the progress report dated 17.01.2019 submitted to the IPP
+Cell, which the Tribunal found insufficient to establish that the
+contractual conditions for mobilisation had in fact been fulfilled.
+
+The Tribunal further considered the respondent's email dated
+21.04.2019, sent after the meeting between the parties, wherein the
+respondent recorded that it remained ready and willing to commence
+whichever project became ready first, subject to confirmation of the
+readiness of the relevant site and jetty. The Tribunal also examined the
+subsequent chronology of events and observed that no communication
+had been produced demonstrating that the petitioner had called upon
+the respondent to mobilise immediately on the footing that the site had
+become fully ready or had accused the respondent of refusing to
+commence work despite such readiness.
+
+The Tribunal also evaluated the evidence from the standpoint of
+commercial probability. It observed that the respondent had
+successfully completed the Manikganj Project within 87 days and
+found no rational commercial explanation why an experienced
+contractor would deliberately keep its heavy equipment and manpower
+idle for a further period of 103 days, fabricate continuing operational
+records and postpone commencement of another project which, upon
+becoming ready, was completed within only nine days. Whether that
+
+inference ultimately represents the only possible conclusion is beside
+the point. The Tribunal was entitled to draw reasonable inferences from
+the evidence before it, and the drawing of such inferences falls squarely
+within its adjudicatory function.
+
+Much emphasis has been placed by the petitioner upon certain
+observations in the award that the petitioner had "failed to disprove" the
+respondent's assertions or had "not conclusively established" the
+readiness of the project site. In the opinion of this Court, those
+expressions cannot be read in isolation. An arbitral award, like a
+judgment, must be construed as a whole. Isolated words or phrases
+cannot be divorced from the context in which they were used. The
+observations relied upon by the petitioner were made after the Tribunal
+had undertaken an extensive examination of the documentary and oral
+evidence produced by both parties. Read contextually, those
+observations merely reflect the Tribunal's conclusion that the
+petitioner's rebuttal evidence was insufficient to displace the case
+established by the respondent. They do not demonstrate that the
+Tribunal dispensed with the respondent's obligation to prove its own
+claim.
+
+The respondent has also rightly contended that the present case
+involves consideration of section 106 of the Evidence Act. Section 106
+does not relieve a claimant of the burden imposed by section 101, nor
+does it reverse the legal burden of proof. Its operation is confined to
+those facts which are especially within the knowledge of a particular
+party. Once the claimant has adduced prima facie evidence supporting
+its case, the evidential burden may shift in relation to facts peculiarly
+within the “knowledge” of the opposite party. Thus, matters relating to
+the petitioner's own internal project management, the actual readiness
+
+of the project site and jetty, mobilisation instructions, internal
+communications
+with
+contractors
+and
+consultants,
+and
+the
+circumstances under which the respondent was allegedly expected to
+commence work were facts particularly within the petitioner's own
+knowledge and records. In such circumstances, it was neither unusual
+nor legally impermissible for the Tribunal to examine whether the
+petitioner had produced satisfactory evidence to substantiate those
+matters. Such an enquiry does not amount to reversing the legal burden
+of proof; rather, it reflects the ordinary operation of section 106 in
+relation to facts especially within the knowledge of one party.
+
+The distinction between the legal burden and the evidential burden
+must be carefully maintained. The legal burden of establishing the
+claim remained throughout upon the respondent as claimant. However,
+once the respondent/claimant had adduced evidence capable of
+supporting its case, the Tribunal was fully entitled to examine whether
+the petitioner had produced evidence explaining or rebutting facts lying
+particularly within its “own knowledge”. The Tribunal's observations
+regarding the inadequacy of the petitioner's evidence, therefore, relate
+to the weight and sufficiency of the rebuttal evidence rather than to any
+impermissible reversal of the legal burden of proof.
+
+Ultimately, the petitioner's criticism is directed less at the allocation of
+the burden of proof than at the Tribunal's appreciation of the evidence.
+Whether greater weight ought to have been attached to the petitioner's
+progress reports, internal correspondence and other documentary
+materials, or whether the Tribunal should have drawn different
+inferences from the same body of evidence, are matters falling within
+the exclusive domain of the arbitral tribunal. Unless the findings are
+shown to be wholly unsupported by evidence, manifestly irrational or
+
+vitiated by any of the statutory grounds enumerated in section 43 of the
+Arbitration Act, this Court cannot substitute its own assessment for that
+of the Tribunal merely because another view of the evidence may also
+be possible.Accordingly, this Court is unable to hold that the Tribunal
+misdirected itself in law by reversing the burden of proof. The
+challenge founded upon sections 101 and 106 of the Evidence Act is,
+therefore, without merit.
+
+Whether The Findings Of The Arbitral Tribunal Are Perverse
+The petitioner's second principal contention is that the findings
+recorded by the Arbitral Tribunal regarding the delay in the
+commencement of the Bhairob Project are perverse. It is submitted that
+the Tribunal ignored material documentary evidence produced by the
+petitioner, including the progress reports, email correspondence and
+photographic records, while placing undue reliance upon the
+respondent's operational logbooks. According to the petitioner, such
+findings are prima facie opposed to the law for the time being in force
+in Bangladesh within the meaning of section 43(1)(b)(ii) of the
+Arbitration Act, 2001.
+
+The expression "perversity" has not been defined in the Arbitration Act,
+2001. However, its legal meaning is well settled. A finding is not
+perverse merely because another view of the evidence is possible or
+because the Court itself might have reached a different conclusion on
+the same materials. Nor does every erroneous finding amount to
+perversity. Courts and tribunals may commit errors in appreciating
+evidence without rendering their decisions legally perverse.
+
+A finding becomes perverse only where it is based on no evidence at
+all, where material evidence having a direct bearing on the dispute has
+
+been completely ignored, where the conclusion rests solely upon
+inadmissible or inherently unreliable evidence, or where the conclusion
+is so irrational and unreasonable that no reasonable tribunal, properly
+directing itself in law, could have reached such a finding. In other
+words, perversity is not merely a wrong conclusion; it is a conclusion
+which lacks any rational foundation in the evidence on record.
+
+This distinction between an erroneous finding and a perverse finding is
+of fundamental importance. An erroneous finding may arise because
+another view of the evidence appears more convincing. A perverse
+finding, on the other hand, is one that no reasonable adjudicator could
+have reached on the evidence before it. Unless this higher threshold is
+satisfied, judicial interference under section 43 would effectively
+convert the supervisory jurisdiction of this Court into an appellate
+jurisdiction, which the Arbitration Act clearly does not contemplate.
+
+In Gas Transmission Company Limited v. Drilltec-Maxwell Joint
+Venture reported in 22 ALR 31, this Court observed that interference
+with an arbitral award is justified only where the findings are
+demonstrably perverse, irrational or based upon a manifest misreading
+or complete non-consideration of material evidence. The decision
+further reiterates that section 43 does not authorise this Court to
+reassess the evidence or substitute its own conclusions merely because
+another view appears more plausible.
+
+Keeping the above principles in view, this Court has carefully
+examined the impugned award. The submission that the Tribunal based
+its decision solely upon the respondent's operational logbooks is not
+borne out by the award itself.The award demonstrates that the Tribunal
+undertook a detailed examination of the entire evidentiary record. Apart
+
+from the respondent's operational logbooks, the Tribunal considered the
+contractual provisions governing the parties' respective obligations,
+thecorrespondence exchanged between them, the progress reports relied
+upon by the petitioner, the oral testimony of witnesses, the chronology
+of the project and the surrounding commercial circumstances before
+arriving at its conclusions.
+
+The
+Tribunal
+separately
+examined
+the
+petitioner's
+email
+correspondence dated 06.01.2019 and 08.01.2019 and explained why
+the statement that "by this time the jetty will be fully ready"
+represented only an expectation of future readiness rather than proof
+that the jetty had actually become ready. Likewise, the Tribunal
+considered the email dated 13.01.2019 addressed to MAN Energy
+Solutions SE and explained why communications made to a third-party
+regarding project progress did not establish that the site and jetty were
+in fact ready for commencement of heavy lifting operations. Similar
+consideration was given to the progress report submitted to the IPP Cell
+on 17.01.2019, which the Tribunal found insufficient to establish actual
+site readiness under the contract.
+
+The Tribunal further considered the respondent's email dated
+21.04.2019 recording that it remained ready and willing to commence
+whichever project became ready first, subject to confirmation that the
+site was fully prepared. The Tribunal also examined the subsequent
+conduct of the parties and observed that there was nocommunication
+showing that the petitioner had called upon the respondent to mobilise
+immediately or had complained that the respondent was refusing to
+commence work despite the site having become ready.
+
+The Tribunal also took into account the surrounding commercial
+circumstances. It found that the respondent had completed the
+Manikganj Project within 87 days and considered it commercially
+improbable that an experienced contractor would deliberately keep its
+heavy equipment and manpower idle for a further period of 103 days,
+fabricate operational log entries and voluntarily delay another project
+which it ultimately completed within only nine days after the necessary
+facilities became available. Whether this was the only possible
+inference is immaterial. The Tribunal was entitled to draw reasonable
+inferences from the evidence before it.
+
+It is true that the Tribunal ultimately attached greater weight to the
+respondent's operational records than to the petitioner's progress reports
+and internal correspondence. However, the weight to be attached to a
+particular piece of evidence is a matter lying exclusively within the
+province of the arbitral tribunal. Once the Tribunal has considered the
+rival evidence and assigned reasons for preferring one body of evidence
+over another, this Court cannot reassess the comparative weight of that
+evidence merely because a different conclusion is also possible.
+
+The petitioner's submission that the Tribunal ignored the progress
+reports, the correspondence with MAN Energy Solutions SE and the
+photographic evidence is likewise not supported by the award. The
+Tribunal expressly referred to these documents and recorded its reasons
+for concluding that they did not conclusively establish the readiness of
+the Bhairob Project. Whether those reasons are ultimately persuasive is
+not the issue before this Court. The relevant question is whether the
+evidence was considered. The award clearly demonstrates that it was.
+
+Similarly, the Tribunal's reliance upon the respondent's operational
+logbooks does not by itself render the award perverse. The Tribunal did
+not treat those logbooks as the sole basis of its conclusions. Rather,
+they were evaluated together with the contractual documents, the
+correspondence exchanged between the parties, the oral evidence and
+the overall chronology of events. The assessment of the reliability and
+evidentiary weight of such documents falls squarely within the
+jurisdiction of the arbitral tribunal.An arbitral tribunal is also entitled to
+draw reasonable inferences from facts. The mere circumstance that
+another inference could also have been drawn does not render the
+inference actually drawn irrational or perverse. Judicial review under
+section 43 is directed to the legality of the decision-making process, not
+to the correctness of every factual inference reached by the Tribunal.
+
+Having considered the award as a whole, this Court is satisfied that the
+findings of the Tribunal are supported by evidence on record and are
+founded upon reasons disclosed in the award. The petitioner has not
+been able to demonstrate that the Tribunal ignored any material
+evidence, relied upon no evidence, misread the evidence in any
+material respect or arrived at a conclusion that no reasonable tribunal
+could have reached.In substance, the petitioner's grievance is that the
+Tribunal ought to have attached greater weight to the petitioner's
+evidence and lesser weight to the respondent's evidence. Such a
+contention goes to the appreciation of evidence rather than to the
+legality of the award. Section 43 does not permit this Court to
+undertake a fresh evaluation of the evidence for the purpose of
+determining whether another conclusion would have been preferable.
+
+Accordingly, this Court is of the considered view that the petitioner has
+failed to establish that the impugned findings suffer from perversity in
+
+its legal sense or that they are prima facie opposed to the law for the
+time being in force in Bangladesh. The challenge, in essence, invites
+this Court to reappreciate the evidence and substitute its own
+conclusions for those of the Tribunal. Such an exercise lies beyond the
+limited supervisory jurisdiction conferred upon this Court under
+sections 42 and 43 of the Arbitration Act, 2001.
+
+Whether The Award Relating To Costs Warrants Interference
+The petitioner has also challenged that part of the impugned award
+whereby the Tribunal directed the petitioner and Bhairob Power
+Limited to pay BDT 35,50,000 towards the respondent's share of the
+costs of the arbitral proceedings. The principal contention is that the
+respondent had originally claimed approximately USD 2.86 million but
+ultimately succeeded only to the extent of USD 511,150, representing
+approximately 17.88% of its total monetary claim. It is, therefore,
+argued that the Tribunal failed to exercise its discretion judicially by
+directing the petitioner to bear the respondent's costs without making a
+proportionate allocation or assigning adequate reasons for doing so.
+
+The submission requires this Court to examine the nature and extent of
+the Tribunal's discretion in awarding costs under the Arbitration Act,
+2001.Section 38 of the Arbitration Act, 2001 confers upon the arbitral
+tribunal the power to determine the costs of the arbitration, including
+the party by whom, or the manner in which, such costs are to be paid.
+The provision is couched in broad language and does not prescribe any
+rigid formula governing the allocation of costs. The legislative intent is
+evidently to leave the matter to the sound judicial discretion of the
+arbitral tribunal, which, having conducted the proceedings and
+observed the conduct of the parties throughout, is in the best position to
+determine the incidence of costs.
+
+It is equally well settled that although the discretion to award costs is
+wide, it is not absolute. Like every judicial discretion, it must be
+exercised reasonably, fairly and upon relevant considerations. It cannot
+be exercised arbitrarily, capriciously, mala fide or upon an erroneous
+understanding of the law. Consequently, where an arbitral tribunal
+awards costs in disregard of a mandatory statutory provision, ignores an
+express contractual stipulation governing costs, proceeds upon
+irrelevant considerations or fails altogether to exercise the discretion
+vested in it, the Court would undoubtedly be justified in exercising its
+supervisory jurisdiction under section 43 of the Arbitration Act.
+However, the Court's concern is directed to the legality of the exercise
+of discretion and not to its correctness or desirability.
+
+The petitioner's challenge is founded principally upon the proposition
+that since the respondent recovered only about 17.88% of its original
+claim, the Tribunal ought either to have denied costs altogether or
+apportioned the costs strictly in proportion to the amount awarded.
+Attractive though the submission may appear at first blush, this Court is
+unable to accept it as a proposition of law.The Arbitration Act does not
+lay down that costs must invariably be awarded in direct mathematical
+proportion to the amount recovered. Nor does it prescribe that a
+claimant who fails to recover the entirety of its claim automatically
+forfeits its entitlement to costs. Had the legislature intended such a rigid
+rule, it could easily have said so. Instead, the matter has been left to the
+discretion of the arbitral tribunal.
+
+The expression "costs follow the event", which has long been
+recognised in civil and commercial litigation, is a general rule and not
+an inflexible principle. The word "event" signifies the overall outcome
+
+of the proceedings rather than a purely arithmetic comparison between
+the amount claimed and the amount awarded. In commercial disputes,
+success cannot invariably be measured solely by reference to the
+quantum recovered. Frequently, the real contest concerns liability itself.
+Once liability is established, the quantification of damages or
+compensation may involve numerous disputed components, some of
+which may succeed while others fail.
+
+In the present case, although the respondent did not succeed in
+recovering the entire amount claimed, it nevertheless succeeded in
+establishing its entitlement to substantive relief. The Tribunal rejected
+several components of the respondent's claim, yet accepted its claim in
+respect of the delay in the commencement of the Bhairob Project and
+awarded compensation accordingly. It cannot, therefore, be said that
+the respondent was an unsuccessful party. On the contrary, the
+respondent emerged as the successful party in the arbitration, albeit
+only partially successful in terms of the quantum ultimately awarded.
+
+The distinction between a wholly unsuccessful claimant and a partially
+successful claimant is of considerable importance. A claimant who
+wholly fails may ordinarily be denied costs. However, where the
+claimant succeeds on the principal issue of liability and obtains an
+enforceable award in its favour, the Tribunal is entitled to regard such
+claimant as the successful party for the purpose of determining costs,
+notwithstanding that certain heads of claim have been rejected or the
+amount awarded is substantially less than that originally claimed.
+
+The Tribunal, while exercising its discretion regarding costs, is not
+confined to considering only the percentage of the claim ultimately
+allowed. It may legitimately take into account the complexity of the
+
+proceedings, the duration of the arbitration, the conduct of the parties,
+the extent to which either party unnecessarily prolonged the
+proceedings, the number of issues upon which each party succeeded or
+failed, the necessity of expert evidence and the overall justice of the
+case. These are matters peculiarly within the province of the arbitral
+tribunal, which alone has the advantage of having presided over the
+entire proceedings.
+
+It is significant that the petitioner has not pointed to any portion of the
+award demonstrating that the Tribunal acted upon an erroneous
+principle of law or failed to appreciate the extent to which the
+respondent had only partially succeeded. Nor has it been shown that the
+Tribunal ignored any statutory provision governing costs or took into
+account any irrelevant consideration. The petitioner's grievance is
+essentially that another tribunal might reasonably have exercised the
+discretion differently. That, however, is not the test under section 43 of
+the Arbitration Act.
+
+This Court must bear in mind that proceedings under section 43 are not
+appellate proceedings. The Court is not concerned with whether it
+would itself have awarded a lesser amount by way of costs or directed
+each party to bear its own costs. The question is whether the Tribunal's
+exercise of discretion is so unreasonable or arbitrary as to amount to a
+jurisdictional error or to render the award prima facie opposed to the
+law for the time being in force in Bangladesh.
+
+Having carefully examined the impugned award, this Court does not
+find that the Tribunal acted arbitrarily or capriciously. The award
+demonstrates that the Tribunal was fully conscious of the fact that the
+respondent had not succeeded in recovering the entirety of its claim.
+
+Nevertheless, after considering the overall outcome of the arbitration,
+the Tribunal regarded the respondent as the substantially successful
+party and exercised the statutory discretion vested in it under section 38
+by directing the petitioner to bear the respondent's costs. Such an
+exercise of discretion cannot be said to be irrational merely because
+another tribunal, or even this Court, might have apportioned the costs
+differently.To interfere with the award of costs in the present case
+would require this Court to substitute its own discretion for that of the
+Tribunal. Such an approach would be inconsistent with the limited
+supervisory jurisdiction conferred by section 43 of the Arbitration Act
+and would undermine the legislative policy of according finality to
+arbitral awards.
+
+Accordingly, this Court is unable to hold that the Tribunal committed
+any jurisdictional error or legal infirmity in awarding costs. The
+petitioner has failed to establish that the discretion vested in the
+Tribunal under section 38 of the Arbitration Act was exercised
+arbitrarily, upon irrelevant considerations, in disregard of any
+mandatory provision of law or in a manner so unreasonable as to
+warrant interference under section 43 of the Arbitration Act, 2001. The
+challenge to this part of the award, therefore, fails.
+
+Conclusion and Order
+Upon a careful consideration of the submissions advanced by the
+learned Advocates for the parties, the impugned award and the
+authorities cited by the parties, this Court is satisfied that none of the
+grounds enumerated in section 43 of the Arbitration Act, 2001 has been
+established. The Arbitration Act consciously accords finality to arbitral
+awards and confers upon this Court only a limited supervisory
+jurisdiction. It does not permit the Court to sit in appeal over the
+
+findings of fact recorded by an arbitral tribunal or to reappreciate the
+evidence merely because another view may also be possible.
+
+For the reasons already recorded, this Court finds that the Tribunal did
+not reverse the burden of proof. The respondent, as claimant,
+discharged the initial burden by leading evidence in support of its
+claim, whereafter the Tribunal evaluated the rebuttal evidence produced
+by the petitioner and reached a reasoned conclusion. Equally, the
+findings of the Tribunal cannot be characterised as perverse. The award
+is supported by evidence on record, reflects consideration of the
+material documents relied upon by both parties and discloses reasons
+for the conclusions reached. The petitioner's grievance, in substance, is
+directed against the Tribunal's appreciation of the evidence rather than
+the legality of the award.
+
+Likewise, no ground has been made out to interfere with the Tribunal's
+determination regarding costs. Section 38 of the Arbitration Act
+expressly vests the arbitral tribunal with the discretion to determine the
+incidence of costs. The petitioner has failed to demonstrate that such
+discretion was exercised arbitrarily, capriciously, in excess of
+jurisdiction or in contravention of any mandatory provision of law. The
+fact that the respondent succeeded only in part does not, by itself,
+render the award of costs legally unsustainable.
+
+Viewed as a whole, the present application is an attempt to reopen the
+factual findings and evidentiary appreciation undertaken by the
+Tribunal. Acceptance of such a challenge would convert the
+supervisory jurisdiction under section 43 into an appellate jurisdiction,
+contrary to the scheme and object of the Arbitration Act, 2001. This
+
+Court, therefore, finds no jurisdictional infirmity, patent illegality or
+other statutory ground for setting aside the arbitral award.
+
+Accordingly, the application is dismissed.
+There shall, however, be no order as to costs
+
+(Justice Md. Toufiq Inam)
+Ashraf/ABO.

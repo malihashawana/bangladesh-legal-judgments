@@ -1,0 +1,450 @@
+IN THE SUPREME COURT OF BANGLADESH
+(ADMIRALTY JURISDICTION)
+ADMIRALTY SUIT NO. 28 OF 2026
+Lufesa Diver's S.C.R.L.
+—Plaintiff
+-Versus-
+M.V. PRINCESS JIA JIA (now M.V. VORTEX
+
+BULK), IMO No. 9189926 and others
+—Defendants
+Mr. Md. Raihan Kawsar, Advocate
+— for the plaintiff.
+Mr. M. Belayet Hossain, Senior Advocate with
+Mr. M. Mahmudul Hasan, Advocate
+ — for defendant Nos. 1, 2 and 6-applicants.
+The 30th August, 2026
+Present:
+Justice Sikder Mahmudur Razi
+1. This application has been filed by defendant Nos. 1, 2 and 6 for rejection of
+the plaint and dismissal of the action in rem against them, together with recall
+of the order of arrest dated 8 June 2026 and discharge and return of Bank
+Guarantee No. OBPLC/AGR/BG/031/2026 dated 28 June 2026, issued by
+ONE Bank PLC, Agrabad Branch, Chattogram, for BDT 44,67,575/-. It
+appears that the applicants have entered appearance under protest and have
+maintained throughout that neither their appearance nor the furnishing of
+substituted security amounts to submission to the jurisdiction of this Court or
+waiver of their objections.
+The plaintiff’s case
+2. The plaintiff, a company incorporated in Peru, instituted the suit on 8 June
+2026 for realization of USD 36,470.00, stated to be equivalent to BDT
+44,67,575/-, with interest and costs. According to the plaint, on 5 July 2025 the
+
+plaintiff provided underwater cleaning of the vessel’s vertical sides and flat
+bottom and polishing of her propeller at Callao, Peru. Invoice No. EB01-1118
+for USD 21,470.00 was allegedly issued to the then Master, owner and
+manager of the vessel. The plaintiff further added USD 10,000.00 as legal fees
+and costs, USD 3,000.00 as vessel-tracking costs and USD 2,000.00 as
+administrative costs.
+3. The plaint describes the vessel as M.V. PRINCESS JIA JIA, flying the flag
+of Panama, and identifies Bedford Castle Shipping Corporation as her owner
+and Eleen Marine JSC as her manager. Jurisdiction is invoked under section
+3(2)(Tha) and (Da) of the Admiralty Court Act, 2000 on the assertion that the
+services were rendered for repair and maintenance of the vessel. On 8 June
+2026 this Court ordered arrest of the vessel.
+The defendants’-applicants’ case
+4. The learned Senior Advocate for the applicants contends that, after the
+alleged services were rendered but before commencement of the suit, the vessel
+was sold to Vortex Bulk Inc. Under a Memorandum of Agreement on
+SALEFORM 2012 dated 3 April 2026, as amended on 17 May 2026, Bedford
+Castle Shipping Corporation agreed to sell the vessel for USD 4,700,000.00.
+They rely upon the payment records, a Bill of Sale executed on 12 May 2026
+and apostilled on 14 May 2026, the Protocol of Delivery and Acceptance dated
+22 May 2026, the Certificate of Cancellation issued by the Liberia Maritime
+Authority on 22 May 2026 and Provisional Certificate of Registry No. SKANCOR-260722 issued by the Saint Kitts and Nevis International Ship Registry
+on 26 May 2026.
+
+5. Learned advocate for the applicants further contends that according to those
+documents, delivery, title and risk passed to Vortex Bulk Inc. on 22 May 2026.
+The Liberian registration was cancelled, the vessel was renamed M.V.
+VORTEX BULK, and on 26 May 2026 she was registered under the flag of
+Saint Kitts and Nevis in the sole ownership of Vortex Bulk Inc. Therefore,
+when the suit was instituted on 8 June 2026, Bedford Castle Shipping
+Corporation i.e. the person alleged to be liable when the cause of action arose,
+was no longer the beneficial owner of any share in the vessel.
+6. The learned Senior Advocate for the applicants further submits that the claim
+for cleaning and polishing is, at its highest, a statutory maritime claim and not a
+maritime lien. Consequently, section 4(3) is not attracted and the action in rem
+can be maintained only upon fulfillment of both the conditions as contained in
+section 4(4) of the Act, 2000. Since the person allegedly liable in personam did
+not beneficially own all the shares in the vessel when the action was brought,
+the second statutory condition was absent. The Bank Guarantee was furnished
+under protest solely to mitigate the continuing commercial loss caused by
+detention. It was accepted on 1 July 2026 in substitution for the arrested res
+and cannot, according to the applicants, create jurisdiction where none existed
+at the time of commencement.
+The plaintiff’s objection
+7. The plaintiff opposes the application principally on the ground that an
+application under Order VII rule 11 of the Code of Civil Procedure must be
+determined only from the averments in the plaint. The learned advocate for the
+plaintiff contends that the alleged sale, transfer, payment, delivery, change of
+registry and beneficial ownership are disputed questions introduced by the
+
+defendants and cannot be decided without formal proof, cross-examination and
+trial. The learned advocate for the plaintiff further submits that the documents
+relied upon by the applicants are photocopies and cannot be acted upon at this
+stage. He next submits that, from the payment receipts, it appears that the
+payments were made through Blue Ocean Maritime Consultancy Services and
+not by the applicants and therefore, contractual relationship of the applicants
+with the seller is not established.
+
+8. The learned advocate for the plaintiff also contends that the furnishing of the
+Bank Guarantee amounts to acceptance of the nature of the claim and that the
+applicants are estopped from challenging maintainability after obtaining release
+of the vessel. It is further alleged that the Memorandum of Agreement
+acknowledged liabilities of the former owner and that the purchaser assumed
+those liabilities.
+Questions for determination
+9. Upon hearing the learned Advocates and perusing the plaint, the application,
+the written objection, the written reply and the documents placed before the
+Court, the following questions arise for determination:
+(i) whether the plaintiff’s claim creates a maritime lien or is merely a statutory
+maritime claim dependent upon section 4(4) of the Admiralty Court Act, 2000;
+(ii) whether, at the time the suit was instituted, the person allegedly liable in
+personam was the beneficial owner of all the shares in the vessel;
+(iii) whether the Court may consider the title and registry documents for
+deciding this threshold question of admiralty jurisdiction; and
+
+(iv) whether furnishing substituted security precludes the applicants from
+challenging jurisdiction.
+Statutory scheme and applicable principles
+10. Section 3(2) of the Admiralty Court Act, 2000 identifies the classes of
+maritime claims over which this Court may exercise admiralty jurisdiction. The
+existence of a maritime claim within section 3(2), however, does not by itself
+make every such claim enforceable in rem against a vessel irrespective of
+ownership. Sections 4(3) and 4(4) prescribe distinct routes by which an action
+in rem may be maintained.
+11. Section 4(3) concerns claims which give rise to a maritime lien or other
+charge upon the ship. Such a lien is proprietary in character and, subject to its
+nature and priority, may follow the ship notwithstanding a subsequent private
+change of ownership. Section 4(4), on the other hand, concerns the statutory
+right in rem for the classes of claim specified there. It requires cumulatively
+that: first, the person who would be liable on the claim in an action in
+personam was, when the cause of action arose, the owner or charterer of, or in
+possession or control of, the ship; and secondly, when the action is brought,
+that same person is the beneficial owner of all the shares in the ship proceeded
+against, or of all the shares in another ship proceeded against as a sister ship.
+12. The distinction has been explained in Nigel Meeson and John A. Kimbell,
+Admiralty Jurisdiction and Practice, 5th edition (2017), paragraphs 3.33–3.38.
+The learned authors distinguish claims maintainable irrespective of ownership
+from claims limited by ownership and state that, for the latter class, the person
+liable in personam must satisfy both the ‘status requirement’ when the cause of
+action arose and the ‘beneficial-ownership requirement’ when the claim is
+
+brought. Toh Kian Sing, Admiralty Law and Practice, 3rd edition (2017),
+Chapter 3, in the discussion of section 4(4), likewise treats these requirements
+as successive statutory steps and emphasizes that the relevant person must
+beneficially own all the shares at the time of commencement of the action.
+13. The same understanding has been adopted in this jurisdiction. In HRC
+Shipping Ltd. v. M.V. X-Press Manaslu, 58 DLR (2006) 185, this Court, upon
+considering The St Merriel and other comparative authorities, held that the
+expression “beneficially owned as respects all the shares” denotes proprietary
+ownership and does not extend merely to possession or operational control
+under a charter. The same proprietary understanding was reiterated in HRC
+Shipping Ltd. v. M.V. Lady Fatima, 60 DLR (2008) 494, and Acquila Voyager
+Maritime GmbH & Co. KG v. M.V. Jin, 1 CLR (HCD) (2013) 1.
+
+14. Comparative authorities lead to the same conclusion. In The Evpo Agnic
+[1988] 1 WLR 1090 (CA), the Court of Appeal rejected an attempt to treat
+vessels owned by separate companies as being in the same beneficial
+ownership merely because the companies were under common control. In The
+Tian Sheng No. 8 [2000] 2 Lloyd’s Rep 430, the Hong Kong Court of Final
+Appeal observed that registration, though not invariably conclusive, is in the
+ordinary course virtually conclusive and requires an exceptional case to
+displace it. In that case the court observed at 433 that-
+It is possible that registration is, as a matter of law, not conclusive on
+the issue of ownership; conceivably, there are circumstances where it
+might be shown that the registered owner was in fact not the legal and
+beneficial owner of all the shares in the ship: The fraudulent
+procurement of registration would be an example. But, in the general
+
+run of things, registration would be virtually conclusive, and it would
+take a wholly exceptional case for it to be otherwise.
+
+Furthermore, Meeson and Kimbell, at paragraphs 3.48–3.59, explain that
+where a change of ownership occurs after the claim arises but before
+commencement, the Court may investigate whether the transfer is genuine;
+however, courts do not disregard a completed transfer merely because it defeats
+an anticipated statutory arrest.
+15. Even the decision in The Monica S [1968] P 741 will not assist the plaintiff
+on the present facts. The said decision establishes that, once an action in rem
+has been commenced, the statutory right against the res thereby created cannot
+be defeated by a subsequent transfer of the vessel, even to a bona fide
+purchaser for value. Toh Kian Sing, in Chapter 8- STATUTORY RIGHT OF
+ACTION IN REM (STATUTORY LIEN) under the discussion of
+“Enforceability against third party purchasers”, explains that the material
+dividing line is commencement of the action. The learned author maintained
+that-
+As discussed above, in respect of a claim coming within section 3(1)(d)
+(q) of the High Court (Admiralty Jurisdiction) Act (section 20(2)(d)–(q)
+of the Senior Courts Act), the decision of The Monica S makes it clear
+that the statutory lien which accrues with the issuance of the writ in rem
+cannot be defeated by a subsequent change of ownership. In such a case,
+the bona fide purchaser of the ship which is subsequently served with the
+writ and arrested can intervene, and if necessary, defend the claim. On
+the other hand, where a ship is sold before the writ is issued, an action in
+rem cannot be brought against her under section 4(4) of the High Court
+(Admiralty Jurisdiction) Act or section 21(4) of the Senior Courts Act
+since at the time the action is brought, i.e. when the writ is issued, she
+
+would no longer be under the beneficial ownership of the person who
+would be liable in personam.[page-345, 346]
+
+Here the transfer is asserted and documented as having been completed
+on 22 May 2026, whereas the suit was instituted on 8 June 2026. Thus, the
+transfer preceded and not followed the commencement of the action.
+Nature of the present claim
+16. The plaintiff’s pleaded claim is for underwater cleaning of the vertical sides
+and flat bottom of the vessel and polishing of her propeller. Even if every
+factual allegation in the plaint is accepted, the claim is one relating to services,
+maintenance, repair or equipment of a ship within the statutory heads of
+maritime jurisdiction. The plaint does not plead facts capable of bringing the
+claim within the traditional categories of maritime lien, such as seamen’s
+wages, salvage, damage done by a ship, bottomry or Master’s wages and
+disbursements. Nor is any statutory provision identified which creates a
+proprietary charge for this cleaning invoice.
+17. The categories of maritime lien are not to be enlarged by judicial analogy.
+Meeson and Kimbell, at paragraphs 3.34–3.39, referring to The St Merriel
+[1963] P 247 and The Acrux (No. 3) [1965] P 391, emphasize that an ordinary
+possessory or commercial claim connected with repair or maintenance is not
+thereby transformed into a maritime lien or ‘other charge’. Accordingly, the
+plaintiff cannot invoke section 4(3). Its action in rem must stand or fall under
+section 4(4).
+
+Ownership at the date of commencement
+18. The alleged services were supplied on 5 July 2025 when Bedford Castle
+Shipping Corporation was the owner and Eleen Marine JSC was the manager.
+The first limb of section 4(4) may therefore be assumed in the plaintiff’s favour
+for present purposes. The decisive question is the second limb: whether the
+person allegedly liable in personam beneficially owned all the shares in the
+vessel on 8 June 2026, when the suit was instituted.
+19. The documents placed before the Court form a consistent chronological
+chain. The SALEFORM 2012 Memorandum of Agreement is dated 3 April
+2026; the consideration was paid from 7 April 2026 to 22 May 2026; the Bill of
+Sale was executed on 12 May 2026 and apostilled on 14 May 2026; the
+Addendum is dated 17 May 2026; the Protocol of Delivery and Acceptance are
+dated 22 May 2026; the Liberian registration was cancelled on 22 May 2026;
+and the Saint Kitts and Nevis registration in the sole ownership of Vortex Bulk
+Inc. was issued on 26 May 2026. These events were completed before 8 June
+2026.
+20. The plaintiff has not produced any contemporaneous record pointing to a
+different conclusion except making some evasive denial. More importantly, it
+does not allege that the transaction was sham, collusive, backdated, fraudulent
+or designed to defeat this particular claim. A bare assertion that ownership is
+‘disputed’ does not itself create a factual controversy requiring a full trial when
+the pleaded response identifies official and contemporaneous records and the
+opposing party neither challenges their authenticity with particularity nor
+places any countervailing material before the Court. Additionally, as regards
+the plaintiff’s objection concerning payment through Blue Ocean Maritime
+
+Consultancies Services, it appears that the Addendum dated 17 May 2026
+clearly provides that the buyers shall pay from the bank account of their
+associated company, namely Blue Ocean Maritime Consultancies Services the
+amounts towards settlement of the mentioned claims, in respect whereof arrests
+have been imposed over the vessel at the port Chattogram.
+
+21. The earlier admiralty proceedings involving the vessel do not alter this
+conclusion. The materials indicate that while the vessel was subject to arrest
+orders in other suits, a negotiated sale was completed and those suits were
+withdrawn or otherwise disposed of one after another. It is true that a private
+sale does not have the cleansing effect of a judicial sale, by which the vessel is
+ordinarily sold free from prior encumbrances. Nevertheless, in the absence of a
+maritime lien or an already-commenced statutory action in rem, the relevant
+question remains the one prescribed by section 4(4): who beneficially owned
+all the shares when this action was brought. On the uncontroverted material,
+that owner was Vortex Bulk Inc., not the person allegedly liable for the July
+2025 invoice.
+Whether the documents may be considered at this stage
+22. The plaintiff submits that, when an application is confined strictly to Order
+VII rule 11(a), the Court ordinarily examines the plaint as a whole and does not
+conduct a trial upon a defence. Sarkar on the Code of Civil Procedure, in the
+commentary on Order VII rule 11, states that rejection at the threshold is a
+serious power and that a plaint disclosing an arguable cause should not be
+rejected merely because the claim appears difficult to prove. That general
+principle is not in dispute.
+
+23. The present application, however, is not merely an invitation to decide the
+merits of the invoice claim upon the defendants’ evidence. It raises the anterior
+question whether the statutory conditions necessary to invoke jurisdiction in
+rem existed when the suit was commenced. Admiralty jurisdiction is special in
+nature. Arrest of the res is not an ordinary interlocutory attachment ancillary to
+an otherwise competent civil suit; the statutory right to proceed against the res
+depends upon the conditions enacted in section 4. A Court whose jurisdiction
+over the res is specifically challenged must be able to examine the material
+bearing directly upon that jurisdiction.
+24. The principles of the Code of Civil Procedure apply to admiralty
+proceedings subject to the special statutory character of admiralty jurisdiction.
+Where jurisdiction over the res is specifically challenged, the Court is not
+required to postpone that determination until trial merely because the relevant
+facts are disclosed through materials produced by the appearing owner. It may
+examine such materials for the limited purpose of determining whether the
+statutory conditions necessary for commencement of the action in rem existed.
+This approach does not amount to adjudication of the underlying maritime
+claim; it is an examination of the jurisdictional foundation upon which the
+vessel was proceeded against. The overarching principle is that admiralty
+courts prioritize their specialized jurisdiction and the effective resolution of
+maritime disputes. This approach is consistent with the principles recognised in
+Sonali Bank v. Bengal Liner Ltd., 10 BLC (2005) 148: LEX/BDHC/0164/2004,
+and the following comparative admiralty authorities which reinforces the
+distinct and often exclusive nature of admiralty jurisdiction over the res and its
+proceeds, implying that general civil procedural rules (analogous to CPC)
+
+cannot be rigidly applied to undermine or circumvent the specific jurisdictional
+and priority rules established within admiralty law. Some of those authorities
+are-
+ (i)
+Dowling Vs. Isthmian S.S. Corporation MANU/ FETC/0142/
+1950: 184 F.2d 758
+(ii)
+Da Hui Shipping (Pte) Ltd vs. An Rong Shipping Pte Ltd
+
+MANU/SGCA/0029/2025: [2025]SGCA30
+(iii) Stolt Kestrel BV v Sener Petrol Denizcilik Ticaret AS
+
+MANU/UKWA/0518/2015: [2015]EWCA Civ 1035
+
+24.1 Here in this suit, this Court is not adjudicating whether the services were
+rendered, whether the invoice remains unpaid or which person is liable in
+personam. Its consideration of the Bill of Sale, delivery protocol and official
+registry records is confined in deciding whether section 4(4) permitted this
+vessel to be proceeded against on 8 June 2026.
+25. Nor does the description of the documents as photocopies compel
+postponement of this jurisdictional determination. For the limited purpose of
+determining jurisdiction, the Court finds no sufficient basis for disregarding
+those documents merely because copies have been produced. The Bill of Sale
+is stated to have been apostilled, the deletion and registration certificates
+emanate from the relevant maritime registries, and the several instruments form
+a consistent and coherent chain of transactions. Their authenticity, execution
+and contents have not been specifically challenged, nor has the plaintiff
+produced any contrary document or material. The conclusion is therefore not
+founded upon the mere production of photocopies, but upon the absence of any
+specific challenge to a coherent body of contemporaneous and official records.
+
+Formal proof may become necessary where the authenticity of a
+document or the underlying transaction is genuinely put in issue. It should not,
+however, become a device for prolonging an action in rem merely to preserve
+security where the documents are mutually consistent, their authenticity is not
+specifically challenged, and no contrary material has been produced.
+26.
+The above proposition also finds support in the following authorities
+from comparative jurisdictions:
+
+In
+Cohenrich
+Energy
+FZE
+v.
+M.T.
+Mirage
+and
+others,
+LEX/HBPK/0727/2021, the plaintiff instituted an admiralty action in rem for
+recovery of US$5,146,648.33 arising from the alleged non-delivery or short
+delivery of cargo. Before institution of the suit, however, the vessel had been
+sold to an independent purchaser for demolition, and the former owners, who
+were allegedly liable in personam, had ceased to be its beneficial owners. The
+Court held that, for a maritime claim falling under section 3(2)(h) of the
+Admiralty Jurisdiction of High Courts Ordinance, 1980, an action in rem under
+section 4(4) can be maintained against the offending vessel only when, at the
+time of institution of the action, it remains beneficially owned, as to the
+majority shares, by the person who would be liable in personam. Since the sale
+documents were not specifically denied and no material was produced to show
+that the transaction was sham or intended to defeat the claim, the statutory
+requirement of common beneficial ownership was not satisfied. The High
+Court, therefore, dismissed the admiralty appeal and affirmed the rejection of
+the plaint under Order VII rule 11 of the Code of Civil Procedure.
+Although the statutory language considered in that decision referred to
+‘majority’ shares, whereas section 4(4) of the Bangladesh Act requires
+
+beneficial ownership of ‘all’ the shares, the decision remains persuasive on the
+procedural point that an undisputed transfer completed before commencement
+may be examined at the threshold stage when it directly determines the
+existence of jurisdiction in rem.
+In International Bunkering Middle East DMCC v. M.T. Tridonawati,
+LEX/HBPK/0063/2012, the plaintiff sought the arrest of the vessel for unpaid
+dues arising from furnace oil supplied to it as necessaries. Before institution of
+the suit, however, the vessel had been sold for valuable consideration to a
+purchaser who had no notice of the plaintiff’s claim. The Court held that an
+action in rem under section 4(4) of the Admiralty Jurisdiction of High Courts
+Ordinance, 1980 could be maintained only if, when the action was brought, the
+vessel was beneficially owned by the person liable in personam. A bona fide
+purchaser for value without notice could not be made liable merely because the
+claim arose while the vessel was under its former ownership. Accordingly, the
+application for arrest and attachment was dismissed, and the interim arrest and
+restraint orders were vacated.
+Effect of the Bank Guarantee
+27. The Bank Guarantee was furnished under protest after the arrest in order to
+obtain the release of a trading vessel and to mitigate the continuing commercial
+loss. By the order dated 1 July 2026, the Court accepted the Bank Guarantee as
+substituted security and directed that it remain in force until disposal of the suit
+or until further order. In admiralty law, security furnished for the release of an
+arrested vessel represents and stands in place of the res. Such security
+preserves the claim and jurisdiction lawfully attaching to the res; it does not
+
+create or enlarge a statutory right of action in rem which did not exist when the
+proceeding was commenced.
+28. For the same reason, the pleas of estoppel and waiver are misconceived.
+The furnishing of security under protest for the release of a trading vessel does
+not amount to an admission of liability, an unconditional submission to
+jurisdiction or an abandonment of the right to challenge the maintainability of
+the action in rem. Toh Kian Sing explains that an appearance may be entered
+for the purpose of applying to set aside the writ or otherwise challenging the
+Court’s admiralty jurisdiction: Admiralty Law and Practice, 3rd edn., p. 214. In
+The Evmar [1989] SGHC 40, the Court similarly recognised that furnishing
+security “under protest” signifies a reservation of rights. More directly, in The
+Eternal Strength [2006] SGHC 12, the Court found that the action in rem had
+been wrongly instituted for non-compliance with the statutory ownership
+requirement and consequently cancelled the letter of undertaking furnished as
+security for that action. Accordingly, once the present action in rem is found
+not maintainable, the substituted security has no independent legal foundation
+and cannot lawfully be retained.
+29. The plaintiff’s contention that the purchaser assumed the seller’s liabilities
+under the Memorandum of Agreement is also unsupported. The identified
+payments under the Addendum were treated as corresponding portions of the
+purchase price and the plaintiff’s invoice is not shown in the itemized schedule.
+The seller’s covenant to deliver the vessel free from encumbrances and debts
+protects the buyer; it does not, without clear words, constitute an assumption by
+the buyer of every unlisted personal liability of the seller, much less create a
+maritime lien in favour of a non-party to the sale contract.
+
+Conclusion
+30. The plaintiff’s claim, taken at its highest, is a statutory maritime claim and
+not a maritime lien. The person allegedly liable in personam when the cause of
+action arose was no longer the beneficial owner of all the shares in the vessel
+when the action was brought. The transfer was completed before institution of
+the suit, and no allegation or material has been placed before the Court capable
+of treating it as sham or ineffective. The cumulative requirements of section
+4(4) of the Admiralty Court Act, 2000 are therefore not satisfied.
+31. Consequently, no statutory right of action in rem attached to M.V.
+VORTEX BULK (previously known as MV Princess Jia Jia) upon institution
+of the suit on 8 June 2026. The defect concerns the statutory foundation of the
+action against the res and cannot be cured by appearance, amendment, arrest or
+the furnishing of substituted security. This Court must therefore decline to
+permit the action in rem to continue against the vessel. The plaint is
+consequently liable to be rejected for failure to satisfy the mandatory
+requirements of section 4(4) of the Admiralty Court Act, 2000.
+
+32. This conclusion does not adjudicate the merits of the plaintiff’s alleged
+invoice claim and shall not prejudice any remedy in personam which the
+plaintiff may pursue, in accordance with law, against Bedford Castle Shipping
+Corporation, Eleen Marine JSC or any other person properly liable in
+appropriate forum. It only holds that the alleged personal liability cannot be
+enforced through this action in rem against a vessel purchased before
+commencement by Vortex Bulk Inc.
+
+Order
+Accordingly, the application succeeds and is allowed.
+The plaint in Admiralty Suit No. 28 of 2026 is hereby rejected for failure
+to satisfy the mandatory requirements of section 4(4) of the Admiralty Court
+Act, 2000. Consequently, the action in rem against M.V. PRINCESS JIA JIA,
+now named M.V. VORTEX BULK, stands terminated.
+The order of arrest dated 8 June 2026 is recalled and vacated. Bank
+Guarantee No. OBPLC/AGR/BG/031/2026 dated 28 June 2026, issued by
+ONE Bank PLC, Agrabad Branch, Chattogram, for BDT 44,67,575/-, is
+discharged. The Registrar is directed to return the original Bank Guarantee to
+defendant Nos. 1, 2 and 6-applicants, or their duly authorized representative,
+for cancellation, upon proper receipt and identification.
+In the facts and circumstances of the case, there shall be no order as to
+costs. The office shall communicate this order to the Marshal and the
+concerned authorities forthwith.
+                                                    (Sikder Mahmudur Razi, J.)

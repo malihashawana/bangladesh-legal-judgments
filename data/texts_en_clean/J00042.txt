@@ -1,0 +1,598 @@
+IN THE SUPREME COURT OF BANGLADESH
+(STATUTORY ORIGINAL JURISDICTION)
+
+                Present:
+Mr. Justice Md. Toufiq Inam
+
+COMPANY MATTER NO. 607 OF 2026.
+IN THE MATTER OF:
+An application under Section 85(3) of the Companies
+Act, 1994, read with Rule 8 of the Companies Rules,
+2009.
+-And-
+
+IN THE MATTER OF:
+Prof. Dr. Abul Kashem.
+
+….Petitioner.
+
+-Versus-
+Registrar of Joint Stock Companies and Firms and
+others.
+                                                   .…Respondents.
+
+Mr. Ahsanul Karim, Senior Advocate with
+Mr. Md. Anisul Hassan,
+Mr. Mohammad Syeed Abrar,
+Mr. Hossain Mohammad Shahidul,
+Mr. Md. Mosadek Billah,
+Mr. Syful Islam, and
+Mr. Md. Habibur Rahman, Advocates
+……..For the Petitioner.
+Mr. Mustafizur Rahman Khan, Senior Advocate
+with
+Mr. Anita Ghazi Rahman, Senior Advocate and
+Mr. Sameera Mahmud, Advocate
+
+…..... For the Respondent No.2-4.
+
+   Judgment delivered On: 17.08.2026.
+
+Md. Toufiq Inam, J.
+1. This application has been filed under section 85(3) of the
+Companies Act, 1994 seeking, inter alia, an order restraining the
+
+respondents from convening or holding an Extraordinary General
+Meeting (“EGM”) of Respondent No.2, Dhaka Club Limited (“the
+Club”), pursuant to Notice No. 794/DC dated 16.05.2026, and for
+consequential reliefs in relation to the proposed amendments to
+Articles 33(b) and 35 of the Articles of Association of the Club
+(“the Articles”).
+
+Factual Background
+2. Respondent No.2, Dhaka Club Limited, is a company limited by
+guarantee and is governed by its Memorandum and Articles of
+Association. It has approximately 3,600 members. Respondent
+No.3 is the incumbent President of the Club and Respondent
+Nos.4 and others are members of its Board of Directors.
+
+3. By Notice No. 794/DC dated 16.05.2026, an EGM of the Club
+was convened for 06.06.2026 to consider, inter alia, proposed
+amendments to Articles 33(b) and 35. The petitioner, a member of
+the Club, challenges the notice and the proposed meeting
+principally on the grounds that the notice did not sufficiently
+disclose the proposed amendments, that the notice was not served
+in accordance with the prescribed mode under the Articles, and
+that the proposed amendment to Article 33(b) was actuated by
+mala fide considerations and conflict of interest.
+
+4. The petitioner also relies upon the alleged non-implementation of
+an internal audit report and contends that the proposed
+amendment to Article 33(b), particularly its retrospective
+operation, is intended to benefit Respondent No.3 and certain
+members of the Board.
+
+Submissions on behalf of the Petitioner
+5. Mr. Ahsanul Karim, learned Senior Advocate appearing with Mr.
+Anisul Hasan for the petitioner, submits that Notice No. 794/DC
+dated 16.05.2026 is legally defective notwithstanding the
+petitioner’s actual receipt thereof. His principal contention is that
+a notice convening an EGM must sufficiently disclose the
+business proposed to be transacted so that the members may
+exercise an informed judgment. According to him, merely
+referring to Article numbers, without setting out the substance of
+the proposed amendments in the notice itself, is insufficient.
+
+6. He further submits that Articles 86 and 87 prescribe the
+permissible modes of service and that delivery through a private
+courier does not satisfy either personal service or service by post
+contemplated by the Articles. The subsequent SMS dated
+31.05.2026, according to him, reinforces the defect in the original
+notice.
+
+7. On the merits of the proposed amendments, Mr. Karim submits
+that the amendment to Article 33(b), particularly its retrospective
+operation, is designed to confer an undue personal benefit upon
+Respondent No.3 and certain members of the Board. He also
+relies upon the alleged failure to implement an internal audit
+report as a further reason why the proposed amendment should
+not presently be placed before the General Body.
+
+8. Finally, he submits that any amendment must strictly comply with
+Article 89, and that convening the proposed EGM violates Article
+89 ab initio. Given Respondent No. 3's direct conflict of interest
+in presiding over a meeting concerning amendments that benefit
+him personally, the Court ought to appoint an independent
+
+Chairman. In support, he relies on Company Matter Nos. 174 &
+178 of 2023, where this Court stayed disputed EGM notices, and
+the Appellate Division (Civil Petition for Leave to Appeal Nos.
+1503 & 1504 of 2023, order dated 15.06.2023) nominated Mr.
+Kamal-Ul-Alam, learned Senior Advocate, as independent
+Chairman.
+
+Submissions on behalf of Respondent Nos. 2–4
+9. Per contra, Mr. Mustafizur Rahman Khan, learned Senior
+Advocate, appearing with Ms. Anita Ghazi Rahman, learned
+Senior Advocate for Respondent Nos.2–4, opposes the
+application.Mr. Khan at the outset questions its maintainability
+under section 85(3) of the Companies Act, 1994. His submission
+is that, notwithstanding the form in which the application has been
+framed, the petitioner’s real grievance is against the meeting
+notice and, more particularly, against the contents of the agenda
+circulated with the notice.
+
+10. He submits that Section 85(3) of the Companies Act, 1994 is a
+facilitative and enabling provision designed to assist companies
+when it becomes "impracticable" to call, hold, or conduct a
+meeting under the Act or Articles. It does not confer general
+supervisory power upon the Court to prohibit or restrain an
+otherwise duly convened meeting. Citing Dhaka Jute Mills Ltd. v.
+Satish Chandra Banik, 19 DLR 735, he submits that the Court
+cannot supply a casus omissus or read prohibitory powers into
+Section 85(3) that the legislature did not enact.
+
+11. Relying upon Jahangir Alam Khan v. RJSC, 55 DLR 495, and
+Ghyasuddin Ahmed v. Faruqe, 38 DLR (AD) 296, Mr. Khan
+
+argues that "impracticable" denotes a practical inability to
+convene or conduct a meeting, which cannot be equated with a
+member’s disagreement with a proposed agenda. A dissenting
+member’s recourse is to participate, deliberate, and vote against
+the proposed resolutions at the EGM. Challenging an unpassed
+resolution is premature (Abdul Mohit v. Social Investment Bank
+Ltd., 54 DLR 306, affirmed in 61 DLR (AD) 82; Cricket Club of
+India Ltd. v. Madhav L. Apte, [1975] 45 Comp Cas 574
+(Bombay)).
+
+12. On the question of notice, Mr. Khan submits that Notice No.
+794/DC dated 16.05.2026 provided the requisite 21 clear days'
+notice for the EGM scheduled on 06.06.2026. The Petitioner’s
+own filings, annexing the notice and courier envelope, establish
+actual receipt. The SMS sent on 31.05.2026 was merely a
+supplementary reminder post-Eid to encourage participation, not a
+fresh or cure notice.
+
+13. Regarding disclosure, he rejects the contention that full text
+amendments must appear verbatim in the body of the notice. The
+notice identified Articles 33(b) and 35, while an accompanying
+enclosure provided a side-by-side comparison of the existing and
+proposed provisions. Reading the notice and enclosure together
+satisfied the requirement of adequately informing members to
+make an informed decision.
+
+14. Addressing allegations of mala fides, Mr. Khan submits that the
+amendment to Article 33(b) did not originate from Respondent
+No. 3, but from a formal request by over 80 members seeking
+relief from a fixed penalty of Tk. 2,00,000/-. The Board merely
+placed the matter before the General Body. The proposed
+
+amendment seeks to replace the rigid penalty, extend payment
+timelines, modernise notice modes, and apply retrospectively to
+match the period relief was sought. Furthermore, the EGM
+adheres strictly to Article 89 by seeking to amend the Articles via
+special resolution.
+
+15. Finally, Mr. Khan submits that an independent audit is irrelevant
+to amending Articles 33(b) and 35. As to appointing an
+independent Chairman, such ancillary relief under Section 85(3)
+can
+arise
+only
+after
+jurisdictional
+threshold
+of
+"impracticability" is met. Relying on United Commercial Bank
+Ltd. v. Jahangir Alam Khan, 56 DLR (AD) 76, he submits that
+mere allegations of conflict of interest by a single member do not
+justify judicial appointment of a chairman. Accordingly,
+Respondent Nos. 2–4 pray for the dismissal of the application.
+
+Points for Determination
+16. Upon hearing the learned Advocates for the parties and
+considering the materials on record, the principal questions which
+arise for determination are: first, whether the application is
+maintainable under section 85(3); secondly, whether the notice
+dated 16.05.2026 sufficiently disclosed the business proposed to
+be transacted at the EGM; thirdly, whether the notice was validly
+served upon the members in accordance with the Act and the
+Articles; fourthly, whether the allegations of mala fides, conflict
+of interest and non-implementation of an internal audit report
+justify interference by this Court; and, finally, whether any
+question arises for appointment of an independent Chairman.
+
+Maintainability under Section 85(3)
+17. Section 85(3) provides that if, for any reason, it is impracticable to
+call a meeting of a company in any manner in which such meeting
+may be called, or to conduct the meeting in the manner prescribed
+by the Articles or the Act, the Court may, on its own motion or
+upon the application of a director or a member entitled to vote,
+order the meeting to be called, held and conducted in such manner
+as the Court thinks fit.
+
+18. It is correct that this provision does not confer upon the Court an
+appellate jurisdiction over the wisdom, desirability or commercial
+expediency of a resolution proposed to be considered by the
+General Body. The Court does not sit in appeal over the collective
+judgment of the members. A mere disagreement with an agenda
+item cannot, by itself, be characterised as “impracticability”
+within the meaning of section 85(3).The present application,
+however, cannot be so characterised. The petitioner is not merely
+asking the Court to determine whether the proposed amendments
+to Articles 33(b) and 35 are desirable or beneficial. A substantial
+part of the challenge is directed against the legality of the process
+by which the EGM itself was sought to be convened, namely, the
+adequacy of the notice and the manner of its service.
+
+19. Section 85(1)(b) expressly requires that notice of a company
+meeting, together with the statement of the business to be
+transacted at the meeting, be served on every member in the
+manner prescribed by Schedule I. Section 87(2), in the case of a
+special resolution, further requires not less than twenty-one days’
+notice specifying the intention to propose the resolution as a
+special resolution.Therefore, compliance with the statutory and
+
+constitutional requirements relating to notice is not a matter
+extraneous to the calling and conduct of a meeting. It constitutes
+part of the process by which the meeting is lawfully convened.
+
+20. In addition, Rule 8 of the Companies Rules, 2009 has been
+recognised by this Court as conferring an inherent jurisdiction in
+appropriate company matters, particularly where non-compliance
+with a statutory provision is brought to the notice of the Court.
+The jurisdiction under Rule 8, however, is not a general appellate
+jurisdiction over corporate affairs and must be exercised with
+restraint.In the present case, the petitioner alleges breach of the
+statutory requirements governing notice as well as breach of the
+Articles. The Court is therefore not being invited merely to
+adjudicate upon the wisdom of an agenda item. The objection
+goes to the legality of the meeting process itself. The application
+is accordingly maintainable.
+
+Statutory Requirements Relating to Notice
+21. Section 85(1)(a) requires, as a general rule, twenty-one days’
+notice in writing for a meeting other than an annual general
+meeting, subject to the statutory provision regarding shorter
+notice. Section 85(1)(b) requires that notice of the meeting,
+together with the statement of the business to be transacted, be
+served upon every member in the manner prescribed by Schedule
+I.
+
+22. Section 87(2) provides that a resolution shall be a special
+resolution where it is passed by the requisite three-fourths
+majority at a general meeting of which not less than twenty-one
+
+days’ notice specifying the intention to propose the resolution as a
+special resolution has been duly given.
+
+23. Section 20 of the Act further recognises the power of a company,
+subject to the Act and its memorandum, to alter its Articles by
+special resolution. Thus, the proposed amendment of Articles
+33(b) and 35 is plainly a matter which may properly be placed
+before the General Body, provided that the statutory and
+constitutional requirements for convening the meeting and
+proposing the special resolution are duly observed.
+
+Sufficiency of Disclosure in Notice No.794/DC
+24.   The notice dated 16.05.2026 stated:
+“Notice is hereby given that an Extraordinary General
+Meeting (EGM) of Dhaka Club Limited will be held on
+Saturday, the 6th of June 2026 at 11.00 AM at the Main
+Lounge of the Club to consider and approve the
+following Agenda.”
+The agenda was stated as follows:
+“To consider and approve the proposed amendments of
+Articles 33(b) and 35 of the Articles of Association of the
+Dhaka Club Limited by passing special resolutions for
+the purpose (details enclosed).”
+
+25. The statutory requirement under section 85(1)(b) is that the notice
+contain the statement of the business to be transacted. It does not,
+in terms, require the entire proposed amendment to be reproduced
+verbatim in the body of the notice.The question, therefore, is
+whether the notice, read together with the accompanying
+
+documents expressly referred to therein, sufficiently identified the
+business to be considered at the meeting.
+
+26. In the present case, the notice specifically identified Articles 33(b)
+and 35 and expressly stated that the proposed amendments were to
+be considered by way of special resolutions. It further stated that
+details were enclosed. The accompanying comparative statement,
+according to the materials before the Court, set out the existing
+and proposed provisions.
+
+27. A notice of a company meeting is not to be construed in isolation
+from documents expressly incorporated into it by reference.
+Where the notice clearly identifies the particular Articles proposed
+to be amended and the accompanying document sets out the
+proposed amendments, the members are placed in a position to
+know the precise subject matter upon which they are being asked
+to vote.The Court therefore finds that the challenge based solely
+upon the alleged failure to reproduce the entire proposed
+amendments in the body of the notice is not sustainable.The
+substantive
+adequacy
+of
+disclosure,
+accordingly,
+is
+established.
+
+Mode of Service of the Notice
+28. The position regarding the mode of service stands on a different
+footing.Section 85(1)(b) expressly requires notice of a company
+meeting to be served in the manner prescribed by Schedule I.
+Regulation 113 of Schedule I provides that notice may be given to
+a member personally or by sending it by registered post to his
+registered address, subject to the circumstances specified therein.
+
+29. While the notice was substantively sufficient in content, its
+transmission to the members suffered from a critical constitutional
+defect regarding the mode of service. Article 86(1) of the Articles
+of Association of Dhaka Club Limited regulates how notices must
+be served on its members: "A notice may be served by the Club
+upon any member either personally or by sending it by post to him
+to his registered address..." Article 86(2) provides the legal
+mechanics for deeming service complete when post is utilized:
+"Where a notice is sent by post, service of the notice shall be
+deemed to be effected by properly addressing, prepaying and
+posting a letter containing the notice..."
+
+30. Under Section 22 of the Companies Act, 1994, the Articles of
+Association constitute a statutory contract binding the company
+and its members. The modes of service prescribed in Article 86(1)
+are exhaustive: service must be effected either personally or by
+post.
+
+31. The Respondents submitted that dispatching notice packages via a
+private commercial courier agency constituted "personal service."
+This argument misconstrues the legal nature of personal service.
+Personal service in company law requires direct physical delivery
+by an officer, agent, or employee acting directly on behalf of the
+company to the recipient member. When a company hands over
+thousands of sealed envelopes to an independent third-party
+commercial courier company, it engages an intermediary logistics
+provider. The courier's sub-agents or delivery staff are not
+company officers delivering notice personally; they are executing
+
+a contract of carriage. Courier delivery cannot be conflated with
+personal delivery.
+
+32. Equally untenable is the proposition that courier delivery is
+equivalent to "service by post." In statutory construction, "post"
+refers specifically to the statutory postal system operated under
+the authority of the State (e.g., the Post Office Act). The legal
+deeming presumption established under Article 86(2) and
+reflected in Section 27 of the General Clauses Act, 1897 attaches
+strictly to letters placed in the official postal network with postage
+prepaid. Courts cannot stretch clear contractual text to read private
+commercial courier services into the word "post." While modern
+commercial practice frequently uses courier networks for speed
+and tracking, corporate constitutions must be amended through
+proper general body resolutions if modern delivery methods are to
+be adopted. Until the Articles are formally altered, the company
+remains bound by its existing contractual provisions.
+
+33. The Respondents emphasized that the Petitioner actually received
+the notice via courier, fully aware of the agenda, and suffered no
+prejudice. In corporate governance, strict compliance with
+statutory and constitutional notice mechanisms is mandatory, not
+directory. The valid convening of a General Body meeting
+depends upon uniform compliance with service rules across the
+entire membership, not merely upon whether a single challenging
+litigant obtained actual knowledge. Actual receipt by an
+individual member cannot validate an unauthorized mode of
+service that breaches the Articles of Association. Because Notice
+No. 794/DC was served upon the general membership primarily
+via private courier agencies, it violated Article 86(1) of the
+
+Articles, rendering the dispatch legally defective.The defect is
+therefore not merely technical or individual. It concerns the
+legality of the process adopted for serving the membership
+generally.
+
+Effect of Actual Receipt
+34. The Respondents have strongly relied upon the fact that the
+petitioner admittedly received the notice and was fully aware of
+the proposed business.This submission cannot prevail in the
+circumstances of the present case. Actual knowledge and valid
+service are not necessarily synonymous. Where a company’s
+Articles prescribe a particular mode of service, the company
+cannot ordinarily substitute a different mode merely because the
+intended recipient happens to have obtained actual knowledge.
+
+35. The purpose of a prescribed mode of service is to establish a
+uniform and legally recognisable mechanism by which notice is
+communicated to all persons entitled to receive it. If actual receipt
+by one member or all members were treated as sufficient to
+validate an otherwise unauthorised mode of service, the
+constitutional requirement governing service would effectively
+become optional.The Court therefore holds that actual receipt of
+the notice by the petitioner does not cure the defect in the mode of
+service adopted by the Club.
+
+Mala Fides and the Proposed Amendment
+36. The petitioner has alleged that the proposed amendment to Article
+33(b) is motivated by mala fides and is intended to confer
+retrospective benefit upon Respondent No.3 and certain members
+
+of the Board.The materials before the Court, however, indicate
+that the proposal was preceded by a request from more than 80
+members seeking reconsideration of the existing monetary
+penalty. The Board thereafter placed the matter before the General
+Body for consideration.
+
+37. The mere fact that an incumbent office-bearer may fall within the
+class of persons potentially affected by an amendment does not,
+without more, establish mala fides. Nor does the fact that the
+proposed amendment may have retrospective effect necessarily
+render it beyond the competence of the General Body.The Court
+must distinguish between the legality of placing a proposal before
+the General Body and the merits of the proposal itself. Whether
+the proposed amendment is fair, appropriate, desirable or
+beneficial to the Club is a matter for the members acting through
+the General Body.No sufficient material has been placed before
+the Court to conclude, at this stage, that the proposed amendment
+is so plainly colourable or ultra vires that it cannot lawfully be
+placed before the General Body.The allegation of mala fides,
+therefore, does not independently furnish a ground for restraining
+consideration of the proposed amendment.
+
+Internal Audit Report
+38. The petitioner has also relied upon the alleged nonimplementation of an internal audit report and submits that the
+Club should not proceed with constitutional amendments until the
+audit issue has been addressed.This contention cannot be accepted
+as a ground for restraining the proposed EGM.The internal audit
+issue and the proposed alteration of the Articles concern distinct
+matters. Unless the Articles themselves or the Act make
+
+completion of such audit a condition precedent to consideration of
+an amendment to the Articles, the Court cannot create such a
+condition judicially.
+
+39. The General Body is entitled to consider the proposed
+amendment, subject always to compliance with the Act and the
+Articles. The existence of an unresolved managerial or financial
+grievance does not, without a statutory or constitutional nexus,
+prevent the General Body from exercising its power to consider
+alteration of its Articles.
+
+Appointment of An Independent Chairman
+40. The petitioner has prayed for appointment of an independent
+Chairman on the ground that Respondent No.3 has a conflict of
+interest.The appointment of an independent Chairman is an
+exceptional judicial intervention in the internal affairs of a
+company. It should not become a routine substitute for the
+constitutional
+machinery
+established
+by
+Articles.The
+authorities relied upon by the petitioner concerning appointment
+of an independent Chairman arose in circumstances requiring such
+exceptional intervention. The mere assertion of a conflict of
+interest by one member, without demonstrating a genuine inability
+of the constitutional Chairman to preside over the meeting fairly
+and in accordance with the Articles, does not justify the Court in
+displacing the person otherwise entitled to preside.
+
+41. In the present case, no structural breakdown in the governance of
+the Club or any demonstrated circumstance rendering it
+impracticable for the meeting to be conducted under the ordinary
+
+constitutional machinery has been established.The prayer for
+appointment of an independent Chairman is therefore refused.
+
+Whether the Notice Can Operate as a Continuing Notice
+42. A further question arises because the EGM fixed by Notice
+No.794/DC was scheduled to be held on 06.06.2026, but the
+meeting was restrained by the interim order of this Court and the
+date has since passed.This bench in the case ofAM Mahmudur
+Rahman v. Uttara Club Limited, Company Matter No.1533 of
+2025, held that where a duly convened meeting is interrupted by
+judicial intervention, lifting of the restraint may permit the
+corporate process to resume without recommencing the entire
+notice process.This principle, however, presupposes the existence
+of a validly convened meeting in the first place.
+
+43. A judicial order staying a meeting does not retrospectively
+validate a notice which was defective when issued. The distinction
+is between a legally convened meeting whose proceedings are
+temporarily interrupted by an order of the Court and a meeting
+which was not validly convened in accordance with the statutory
+and constitutional requirements from the outset.In the present
+case, the notice was not validly served in accordance with the
+prescribed mode. The defect therefore existed before the interim
+order was passed. The subsequent restraint/stay did not create that
+defect, nor can the lifting of the restraint cure it. The meeting date
+fixed in the notice, namely 06.06.2026, has already passed. The
+Club cannot simply treat the old notice as a continuing notice and
+unilaterally substitute another date without issuing a fresh notice
+complying with the Act and the Articles.The principle of a
+“continuing notice” is therefore inapplicable to the present case.
+
+Conclusion
+44. Upon consideration of the materials on record, this Court finds
+that the petitioner has failed to establish any legal ground for
+interfering with the substantive business proposed to be placed
+before the General Body. The proposed amendments to Articles
+33(b) and 35 are matters which fall within the competence of the
+General Body, and their wisdom or desirability is not for this
+Court to determine. The notice, when read together with the
+documents expressly enclosed with it, sufficiently disclosed the
+business proposed to be transacted. The allegations of mala fides,
+conflict of interest and non-implementation of the internal audit
+report do not, in the circumstances of the present case, render the
+proposed amendments ultra vires or incapable of being placed
+before the General Body.
+
+45. The decisive defect, however, lies in the mode of service of
+Notice No.794/DC dated 16.05.2026. The notice was not served
+in accordance with the mode prescribed by Article 86 of the
+Articles of Association and the applicable statutory framework.
+Actual
+receipt
+by
+petitioner
+cannot
+cure
+that
+defect.Consequently, the EGM fixed pursuant to the said notice
+cannot lawfully be held on the basis of that notice. Since the date
+fixed for the meeting has already expired, the notice cannot be
+revived or treated as a continuing notice.
+
+Order and Directions
+46. In view of the foregoing reasons, the objection to the
+maintainability of the application under section 85(3) of the
+
+Companies Act, 1994 is rejected. Consequently, the Company
+Matter is disposed of with the following directions:
+
+i)  The petitioner’s challenge to the substantive adequacy
+of disclosure in Notice No.794/DC dated 16.05.2026 is
+rejected. It is held that Notice No.794/DC dated
+16.05.2026 was not validly served in accordance with
+the mandatory requirements of Article 86 of the
+Articles of Association of Dhaka Club Limited and the
+applicable provisions of the Companies Act, 1994.
+Therefore, Notice No.794/DC dated 16.05.2026 cannot
+validly operate as the notice for convening the
+Extraordinary General Meeting of Respondent No.2.
+
+ii) If
+Respondent
+No.2
+desires
+to
+proceed
+with
+consideration of the proposed amendments to Articles
+33(b) and 35, it shall issue a fresh notice of
+Extraordinary General Meeting, fixing a fresh date,
+time and venue and complying with the applicable
+provisions of the Companies Act, 1994, including the
+requirement of twenty-one days’ notice and the
+requirement to specify the intention to propose the
+resolutions as special resolutions, as applicable. The
+fresh notice shall be served strictly in accordance with
+the applicable statutory provisions and Article 86 of the
+Articles of Association of Respondent No.2.
+
+iii) The prayer for appointment of an independent
+Chairman is refused.
+
+iv) The merits, wisdom and desirability of the proposed
+amendments to Articles 33(b) and 35 are left entirely
+
+open for consideration by the General Body of
+Respondent No.2 in accordance with law.
+
+v) The interim order previously passed by this Court
+stands vacated. There shall be no order as to costs.
+
+(Justice Md. Toufiq Inam)
+
+Ashraf/ABO.
