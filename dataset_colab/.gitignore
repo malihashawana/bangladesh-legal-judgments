@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+artifacts/
+*.pkl
+*.npy
+*.pt
+*.bin
+*.safetensors
+.env
+.DS_Store
+Thumbs.db

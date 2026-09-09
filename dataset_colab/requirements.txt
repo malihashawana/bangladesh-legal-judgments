@@ -1,0 +1,12 @@
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+rank-bm25
+sentence-transformers
+transformers
+huggingface-hub
+FlagEmbedding
+tabulate
